@@ -8,6 +8,7 @@
 
 import React, {Component} from 'react';
 import {
+  PitchTracker,
   SafeAreaView,
   StyleSheet,
   ScrollView,
@@ -22,7 +23,22 @@ import {
   AppRegistry
 } from 'react-native';
 
-import { StackNavigator } from 'react-navigation';
+/*PitchTracker,prepare();
+
+PitchTracker.noteOn((res) => {
+  console.log('Note On: ' + res['midiNum']);
+}); // Note On: 60
+PitchTracker.noteOff((res) => {
+  console.log('Note Off: ' + res['midiNum']);
+}); // Note Off: 60
+
+// Start PitchTracker Engine
+PitchTracker.start()
+
+// Stop PitchTracker Engine
+PitchTracker.stop()
+*/
+
 
 class MainActivity extends Component{
   static navigationOptions =

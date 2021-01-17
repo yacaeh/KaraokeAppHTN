@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b99fe9bb-a13d-4909-a82a-47e943ad9965" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/6.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/6.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/6.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/6.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/6.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/6.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/6.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/6.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/6.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/6.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/6.2/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/6.2/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/6.2/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/6.2/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/6.2/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/6.2/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/6.2/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/6.2/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/react-native" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/react-native" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/RNReanimated.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/RNReanimated.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/.transforms/b75750f6b380452237b82870297377a1/classes/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/.transforms/b75750f6b380452237b82870297377a1/classes/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/compile_library_classes/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/compile_library_classes/debug/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/NodesManager$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/NodesManager$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/NodesManager$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/NodesManager$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/NodesManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/NodesManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/ConcatNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/ConcatNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$18.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$19.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$20.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$21.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$22.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$23.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$24.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$25.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$26.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$26.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode$31.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/OperatorNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/ParamNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/ParamNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/TransformNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/javac/debug/classes/com/swmansion/reanimated/nodes/TransformNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/runtime_library_classes/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/build/intermediates/runtime_library_classes/debug/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/src/main/java/com/swmansion/reanimated/NodesManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/src/main/java/com/swmansion/reanimated/NodesManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/src/main/java/com/swmansion/reanimated/nodes/ConcatNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/src/main/java/com/swmansion/reanimated/nodes/ConcatNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/src/main/java/com/swmansion/reanimated/nodes/OperatorNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/src/main/java/com/swmansion/reanimated/nodes/OperatorNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/src/main/java/com/swmansion/reanimated/nodes/ParamNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/src/main/java/com/swmansion/reanimated/nodes/ParamNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/src/main/java/com/swmansion/reanimated/nodes/TransformNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/src/main/java/com/swmansion/reanimated/nodes/TransformNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/ios/Nodes/REANode.m" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/ios/Nodes/REANode.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/ios/Nodes/REAOperatorNode.m" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/ios/Nodes/REAOperatorNode.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/ios/Nodes/REAParamNode.m" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/ios/Nodes/REAParamNode.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/ios/REANodesManager.m" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/ios/REANodesManager.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/Animated.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/Animated.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/ConfigHelper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/ConfigHelper.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/Easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/Easing.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/ReanimatedEventEmitter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/ReanimatedEventEmitter.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/ReanimatedModule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/ReanimatedModule.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/ReanimatedModule.macos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/ReanimatedModule.macos.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/ReanimatedModule.native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/ReanimatedModule.native.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/ReanimatedModule.windows.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/ReanimatedModule.windows.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/ReanimatedModuleCompat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/ReanimatedModuleCompat.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/SpringConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/SpringConfig.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/Transitioning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/Transitioning.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/__mocks__/ReanimatedEventEmitter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/__mocks__/ReanimatedEventEmitter.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/__mocks__/ReanimatedModule.native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/__mocks__/ReanimatedModule.native.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/animations/Animation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/animations/Animation.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/animations/SpringUtils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/animations/SpringUtils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/animations/backwardCompatibleAnimWrapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/animations/backwardCompatibleAnimWrapper.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/animations/decay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/animations/decay.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/animations/spring.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/animations/spring.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/animations/timing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/animations/timing.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/base.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedAlways.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedAlways.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedBezier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedBezier.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedBlock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedBlock.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedCall.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedCall.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedCallFunc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedCallFunc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedClock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedClock.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedClockTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedClockTest.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedCode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedCode.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedConcat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedConcat.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedCond.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedCond.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedDebug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedDebug.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedEvent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedEvent.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedFunction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedFunction.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedNode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedNode.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedOperator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedOperator.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedParam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedParam.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedProps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedProps.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedSet.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedStartClock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedStartClock.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedStopClock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedStopClock.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedStyle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedTransform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedTransform.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedValue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/AnimatedValue.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/InternalAnimatedValue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/InternalAnimatedValue.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/__mocks__/AnimatedProps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/__mocks__/AnimatedProps.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/createEventObjectProxyPolyfill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/core/createEventObjectProxyPolyfill.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/createAnimatedComponent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/createAnimatedComponent.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/__mocks__/evaluateOnce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/__mocks__/evaluateOnce.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/acc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/acc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/color.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/color.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/diff.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/diff.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/diffClamp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/diffClamp.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/evaluateOnce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/evaluateOnce.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/interpolate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/interpolate.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/interpolateColors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/interpolateColors.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/onChange.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/onChange.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/useCode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/derived/useCode.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/operators.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/operators.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/useValue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/useValue.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/val.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/commonjs/val.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/Animated.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/Animated.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/ConfigHelper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/ConfigHelper.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/Easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/Easing.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/ReanimatedEventEmitter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/ReanimatedEventEmitter.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/ReanimatedModule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/ReanimatedModule.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/ReanimatedModule.macos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/ReanimatedModule.macos.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/ReanimatedModule.native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/ReanimatedModule.native.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/ReanimatedModule.windows.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/ReanimatedModule.windows.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/ReanimatedModuleCompat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/ReanimatedModuleCompat.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/SpringConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/SpringConfig.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/Transitioning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/Transitioning.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/__mocks__/ReanimatedEventEmitter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/__mocks__/ReanimatedEventEmitter.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/__mocks__/ReanimatedModule.native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/__mocks__/ReanimatedModule.native.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/animations/Animation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/animations/Animation.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/animations/SpringUtils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/animations/SpringUtils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/animations/backwardCompatibleAnimWrapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/animations/backwardCompatibleAnimWrapper.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/animations/decay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/animations/decay.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/animations/spring.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/animations/spring.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/animations/timing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/animations/timing.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/base.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedAlways.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedAlways.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedBezier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedBezier.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedBlock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedBlock.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedCall.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedCall.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedCallFunc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedCallFunc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedClock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedClock.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedClockTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedClockTest.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedCode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedCode.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedConcat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedConcat.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedCond.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedCond.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedDebug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedDebug.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedEvent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedEvent.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedFunction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedFunction.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedNode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedNode.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedOperator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedOperator.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedParam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedParam.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedProps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedProps.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedSet.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedStartClock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedStartClock.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedStopClock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedStopClock.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedStyle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedTransform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedTransform.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedValue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/AnimatedValue.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/InternalAnimatedValue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/InternalAnimatedValue.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/__mocks__/AnimatedProps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/__mocks__/AnimatedProps.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/createEventObjectProxyPolyfill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/core/createEventObjectProxyPolyfill.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/createAnimatedComponent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/createAnimatedComponent.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/__mocks__/evaluateOnce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/__mocks__/evaluateOnce.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/acc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/acc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/color.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/color.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/diff.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/diff.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/diffClamp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/diffClamp.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/evaluateOnce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/evaluateOnce.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/interpolate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/interpolate.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/interpolateColors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/interpolateColors.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/onChange.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/onChange.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/useCode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/derived/useCode.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/operators.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/operators.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/useValue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/useValue.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/val.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/lib/module/val.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/mock.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/mock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/react-native-reanimated.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/react-native-reanimated.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/Animated.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/Animated.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/ReanimatedModule.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/ReanimatedModule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/ReanimatedModule.macos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/ReanimatedModule.native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/ReanimatedModule.windows.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/ReanimatedModuleCompat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/__mocks__/ReanimatedModule.native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/animations/Animation.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/animations/Animation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/animations/backwardCompatibleAnimWrapper.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/animations/backwardCompatibleAnimWrapper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/animations/decay.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/animations/decay.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/animations/spring.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/animations/spring.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/animations/timing.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/animations/timing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/core/AnimatedBlock.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/core/AnimatedBlock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/core/AnimatedCode.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/core/AnimatedCode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/core/AnimatedEvent.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/core/AnimatedEvent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/core/AnimatedNode.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/core/AnimatedNode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/core/AnimatedOperator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/core/AnimatedOperator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/core/AnimatedValue.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/core/AnimatedValue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/core/InternalAnimatedValue.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/core/InternalAnimatedValue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/core/createEventObjectProxyPolyfill.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/core/createEventObjectProxyPolyfill.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/createAnimatedComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/createAnimatedComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/derived/color.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/derived/color.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/derived/diffClamp.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/derived/diffClamp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/derived/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/derived/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/derived/interpolate.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/derived/interpolate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/derived/interpolateColors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/operators.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/operators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-reanimated/src/useValue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nBzzOt88dfOqKfN6uS7bs601Hl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b99fe9bb-a13d-4909-a82a-47e943ad9965" name="Default Changelist" comment="" />
+      <created>1610878533589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610878533589</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="123" width="1024" height="852" key="SettingsEditor" timestamp="1610878647844">
+      <screen x="72" y="27" width="1608" height="1023" />
+    </state>
+    <state x="378" y="123" width="1024" height="852" key="SettingsEditor/72.27.1608.1023@72.27.1608.1023" timestamp="1610878647844" />
+  </component>
+</project>
