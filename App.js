@@ -19,6 +19,7 @@ import {
   SafeAreaViewBase,
   TouchableOpacity,
   Touchable,
+  AppRegistry
 } from 'react-native';
 
 import {
@@ -33,41 +34,38 @@ const Separator = () => (
   <View style={styles.separator} />
 );
 
+
 const App: () => React$Node = () => {
   // const [appname, setAppName] = useState('My Karaoke App');
   // const [description, setDescription] = useState('Personalized Karaoke Library tailored to your vocal range')
   return (
-    <SafeAreaView style={styles.container}>
+    <>
+    <StatusBar barStyle="dark-content" />
+    <SafeAreaView>
+      <View style={styles.container}></View>
+    </SafeAreaView>
     <View style={styles.container}>
-      <View style={styles.header}>
+      <View>
         <Text style={styles.titleSize}>PITCH PERFECT</Text>
       </View>
       <Text style={styles.innerText}>Personalized Karaoke Library</Text>
       <Text style={styles.innerText}>tailored to your vocal range</Text>
       <Text></Text>
-      <Button
-      style={styles.appButtonText}
-      color= 'white'
-      onPress={() => Alert.alert('GET STARTED')}
-      title = "hello"
-      />
+    
+      <TouchableOpacity onPress={() => Alert.alert("you are gay")} style={styles.button}>
+        <Text style={styles.buttonText}>GET STARTED</Text>
+      </TouchableOpacity>
       
-     
     </View>
-    </SafeAreaView>
+
+    </>
     );
 }
-
-const AppButton = ({ onPress, title}) => (
-  <TouchableOpacity onPress={onPress} style={styles.appButtonContainer}>
-    <Text style={styles.appButtonText}>{title}</Text>
-  </TouchableOpacity>
-);
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: `#5600E8`,
+    backgroundColor: `#fa8072`,
     alignItems: 'center',
     justifyContent: 'center',
   },
@@ -85,7 +83,7 @@ const styles = StyleSheet.create({
     padding: 10,
   },
   titleSize: {
-    fontSize: 35,
+    fontSize: 40,
     color: 'white',
     fontWeight: 'bold',
     fontFamily: "OpenSans-Italic"
@@ -103,6 +101,20 @@ const styles = StyleSheet.create({
     color: `#9400d3`,
     alignSelf: "center",
     textTransform: "uppercase"
+  },
+  textInput: {
+    width: '90%',
+    height: 50, 
+    borderColor: 'black',
+    borderWidth: 2,
+  },
+  button: {
+    backgroundColor: "white",
+    padding: 20,
+    borderRadius: 10
+  },
+  buttonText: {
+    color: "red"
   }
 });
 
