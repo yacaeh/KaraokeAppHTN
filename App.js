@@ -6,20 +6,44 @@
  * @flow strict-local
  */
 
-import React, { Component } from 'react';
+import React, { useState } from 'react';
 import {
   SafeAreaView,
   StyleSheet,
+  ScrollView,
   View,
   Text,
   StatusBar,
   Button,
   Alert,
-  TouchableOpacity} from 'react-native';
+  SafeAreaViewBase,
+  TouchableOpacity,
+  Touchable,
+  AppRegistry
+} from 'react-native';
 
-  import { createSwitchNavigator, createStackNavigator } from 'react-navigation';
+import { StackNavigator } from 'react-navigation';
 
-  
+class MainActivity extends Component{
+  static navigationOptions =
+  {
+    title: 'MainActivity'
+  };
+  OpenSecondActivityFunction = () =>
+  {
+    this.props.navigation.navigate('Second');
+  }
+
+  render()
+  {
+    return (
+      <View style = { styles.container }>
+        <Text style = { styles.ActivityNameTextCss }>MainActivity</Text>
+        <Button onPress = { this.OpenSecondActivityFunction } title= 'Open Second Activity'/>
+      </View>
+    )
+  }
+}
 
 const App: () => React$Node = () => {
   // const [appname, setAppName] = useState('My Karaoke App');
