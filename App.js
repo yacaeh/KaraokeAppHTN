@@ -66,7 +66,7 @@ const App: () => React$Node = () => {
         <Text style={styles.buttonText}>GET STARTED</Text>
       </TouchableOpacity>
       
-    </View> 
+    </View>
 
     </>
     );
