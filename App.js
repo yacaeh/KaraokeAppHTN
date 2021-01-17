@@ -41,7 +41,7 @@ const App: () => React$Node = () => {
       <TouchableOpacity onPress={() => Alert.alert("you are awesome")} style={styles.button}>
         <Text style={styles.buttonText}>GET STARTED</Text>
       </TouchableOpacity>
-      
+
     </View> 
 
     </>
