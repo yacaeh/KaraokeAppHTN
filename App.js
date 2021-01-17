@@ -22,18 +22,28 @@ import {
   AppRegistry
 } from 'react-native';
 
-import {
-  Header,
-  LearnMoreLinks,
-  Colors,
-  DebugInstructions,
-  ReloadInstructions,
-} from 'react-native/Libraries/NewAppScreen';
+import { StackNavigator } from 'react-navigation';
 
-const Separator = () => (
-  <View style={styles.separator} />
-);
+class MainActivity extends Component{
+  static navigationOptions =
+  {
+    title: 'MainActivity'
+  };
+  OpenSecondActivityFunction = () =>
+  {
+    this.props.navigation.navigate('Second');
+  }
 
+  render()
+  {
+    return (
+      <View style = { styles.container }>
+        <Text style = { styles.ActivityNameTextCss }>MainActivity</Text>
+        <Button onPress = { this.OpenSecondActivityFunction } title= 'Open Second Activity'/>
+      </View>
+    )
+  }
+}
 
 const App: () => React$Node = () => {
   // const [appname, setAppName] = useState('My Karaoke App');
