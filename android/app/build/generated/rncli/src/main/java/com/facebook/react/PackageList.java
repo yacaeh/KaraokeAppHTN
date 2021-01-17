@@ -11,7 +11,6 @@ import com.facebook.react.shell.MainReactPackage;
 import java.util.Arrays;
 import java.util.ArrayList;
 
-<<<<<<< HEAD
 // @react-native-community/masked-view
 import org.reactnative.maskedview.RNCMaskedViewPackage;
 // react-native-gesture-handler
@@ -24,10 +23,6 @@ import com.th3rdwave.safeareacontext.SafeAreaContextPackage;
 import com.swmansion.rnscreens.RNScreensPackage;
 // react-native-vector-icons
 import com.oblador.vectoricons.VectorIconsPackage;
-=======
-// react-native-gesture-handler
-import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
->>>>>>> master
 
 public class PackageList {
   private Application application;
@@ -73,16 +68,12 @@ public class PackageList {
   public ArrayList<ReactPackage> getPackages() {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(mConfig),
-<<<<<<< HEAD
       new RNCMaskedViewPackage(),
       new RNGestureHandlerPackage(),
       new ReanimatedPackage(),
       new SafeAreaContextPackage(),
       new RNScreensPackage(),
       new VectorIconsPackage()
-=======
-      new RNGestureHandlerPackage()
->>>>>>> master
     ));
   }
 }
