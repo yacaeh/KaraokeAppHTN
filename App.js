@@ -38,7 +38,7 @@ const App: () => React$Node = () => {
       <Text style={styles.innerText}>tailored to your vocal range</Text>
       <Text></Text>
     
-      <TouchableOpacity onPress={() => Alert.alert("you are gay")} style={styles.button}>
+      <TouchableOpacity onPress={() => Alert.alert("you are awesome")} style={styles.button}>
         <Text style={styles.buttonText}>GET STARTED</Text>
       </TouchableOpacity>
       
