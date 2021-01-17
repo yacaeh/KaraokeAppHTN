@@ -6,7 +6,7 @@
  * @flow strict-local
  */
 
-import React from 'react';
+import React, { useState } from 'react';
 import {
   SafeAreaView,
   StyleSheet,
@@ -14,6 +14,11 @@ import {
   View,
   Text,
   StatusBar,
+  Button,
+  Alert,
+  SafeAreaViewBase,
+  TouchableOpacity,
+  Touchable,
 } from 'react-native';
 
 import {
@@ -24,91 +29,81 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
+const Separator = () => (
+  <View style={styles.separator} />
+);
+
 const App: () => React$Node = () => {
+  // const [appname, setAppName] = useState('My Karaoke App');
+  // const [description, setDescription] = useState('Personalized Karaoke Library tailored to your vocal range')
   return (
-    <>
-      <StatusBar barStyle="dark-content" />
-      <SafeAreaView>
-        <ScrollView
-          contentInsetAdjustmentBehavior="automatic"
-          style={styles.scrollView}>
-          <Header />
-          {global.HermesInternal == null ? null : (
-            <View style={styles.engine}>
-              <Text style={styles.footer}>Engine: Hermes</Text>
-            </View>
-          )}
-          <View style={styles.body}>
-            <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>STEP UNO</Text>
-              <Text style={styles.sectionDescription}>
-                Edit <Text style={styles.highlight}>App.js</Text> to change this
-                screen and then come back to see your edits.
-              </Text>
-            </View>
-            <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>See Your Changes</Text>
-              <Text style={styles.sectionDescription}>
-                <ReloadInstructions />
-              </Text>
-            </View>
-            <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>Debug</Text>
-              <Text style={styles.sectionDescription}>
-                <DebugInstructions />
-              </Text>
-            </View>
-            <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>Learn More</Text>
-              <Text style={styles.sectionDescription}>
-                Read the docs to discover what to do next:
-              </Text>
-            </View>
-            <LearnMoreLinks />
-          </View>
-        </ScrollView>
-      </SafeAreaView>
-    </>
-  );
-};
+    <SafeAreaView style={styles.container}>
+    <View style={styles.container}>
+      <View style={styles.header}>
+        <Text style={styles.titleSize}>PITCH PERFECT</Text>
+      </View>
+      <Text style={styles.innerText}>Personalized Karaoke Library</Text>
+      <Text style={styles.innerText}>tailored to your vocal range</Text>
+      <Text></Text>
+      <Button
+      style={styles.appButtonText}
+      color= 'white'
+      onPress={() => Alert.alert('GET STARTED')}
+      title = "hello"
+      />
+      
+     
+    </View>
+    </SafeAreaView>
+    );
+}
+
+const AppButton = ({ onPress, title}) => (
+  <TouchableOpacity onPress={onPress} style={styles.appButtonContainer}>
+    <Text style={styles.appButtonText}>{title}</Text>
+  </TouchableOpacity>
+);
 
 const styles = StyleSheet.create({
-  scrollView: {
-    backgroundColor: Colors.lighter,
+  container: {
+    flex: 1,
+    backgroundColor: `#5600E8`,
+    alignItems: 'center',
+    justifyContent: 'center',
   },
-  engine: {
-    position: 'absolute',
-    right: 0,
+  boldText: {
+    fontWeight: 'bold',
+    color: `#f0fff0`
   },
-  body: {
-    backgroundColor: Colors.white,
-  },
-  sectionContainer: {
-    marginTop: 32,
-    paddingHorizontal: 24,
-  },
-  sectionTitle: {
-    fontSize: 24,
-    fontWeight: '600',
-    color: Colors.black,
-  },
-  sectionDescription: {
-    marginTop: 8,
+  innerText: {
+    color: `#f0fff0`,
     fontSize: 18,
-    fontWeight: '400',
-    color: Colors.dark,
+    fontFamily: 'sans-serif-medium'
   },
-  highlight: {
-    fontWeight: '700',
+  header: {
+    backgroundColor: `#5600E8`,
+    padding: 10,
   },
-  footer: {
-    color: Colors.dark,
-    fontSize: 12,
-    fontWeight: '600',
-    padding: 4,
-    paddingRight: 12,
-    textAlign: 'right',
+  titleSize: {
+    fontSize: 35,
+    color: 'white',
+    fontWeight: 'bold',
+    fontFamily: "OpenSans-Italic"
+
+  }, 
+  appButtonContainer: {
+    elevation: 4,
+    backgroundColor: `#fffaf0`,
+    borderRadius: 10,
+    paddingVertical: 10,
+    paddingHorizontal: 12
   },
+  appButtonText: {
+    fontSize: 18,
+    color: `#9400d3`,
+    alignSelf: "center",
+    textTransform: "uppercase"
+  }
 });
 
 export default App;
